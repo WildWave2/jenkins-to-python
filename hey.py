@@ -1,4 +1,3 @@
-# This program prints Hello, world!
+# This program prints Hey from file
 
-print('Hello, world!')
-exit()
+print('Hey from file')
