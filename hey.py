@@ -1,2 +1,4 @@
- print("Hey from file")
- exit()
+# This program prints Hello, world!
+
+print('Hello, world!')
+exit()
